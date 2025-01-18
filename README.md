@@ -1,6 +1,6 @@
 # Coin-Operated Drink Stand System
 
-This project is a coin-operated drink stand system designed to accept Indonesian currency, calculate the total amount inserted, handle drink purchases, and dispense correct change. The system is implemented using ICs and logic gates in **Proteus** simulation software.
+This project is a coin-operated drink stand system designed to accept Indonesian coin currency, calculate the total amount inserted, handle drink purchases, and dispense correct change. The system is implemented using ICs and logic gates in **Proteus** simulation software.
 
 ## Disclaimer
 This system is designed and tested on **Proteus 8.11**. It utilizes a top-up system with coin sensors, a latch system for drink selection, a change system for correct coin dispensing, and displays to show the current token amount.
